@@ -26,4 +26,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 ## Modulo 1
 
-- Clase uno Vscode, Discord, definicion HTML, Estructura del modulo https://youtu.be/7GUH7zB0FG0
+- 04/03/2024 Vscode, Discord, definicion HTML, Estructura del modulo https://youtu.be/7GUH7zB0FG0
