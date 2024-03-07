@@ -27,3 +27,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ## Modulo 1
 
 - 04/03/2024 Vscode, Discord, definicion HTML, Estructura del modulo https://youtu.be/7GUH7zB0FG0
+- 06/03/2024 Definicion HTML, Elementos básicos y su clasificación, Tablas https://youtu.be/12lwSFTXov8
