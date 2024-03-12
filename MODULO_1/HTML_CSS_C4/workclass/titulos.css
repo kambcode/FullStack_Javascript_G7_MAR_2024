@@ -1,0 +1,9 @@
+/* Selector de etiqueta */
+h1 {
+  font-size: 45px;
+}
+/* Selector de etiqueta */
+h2 {
+  font-size: 10px;
+  color: red;
+}

@@ -1,0 +1,23 @@
+form {
+  border: 5px solid red;
+  /* padding condensando todo igual */
+  padding: 10px;
+  /* padding separado entre superior/inferior y laterales */
+  padding: 10px 15px;
+  /* padding detallado */
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+
+  border-radius: 20px;
+}
+
+input /* Selector */
+{ /* Inicio del bloque */
+  border: 2px solid blue;  /* declaración */
+}/* Fin de bloque */
+
+button {
+  border: 2px solid blue; 
+}

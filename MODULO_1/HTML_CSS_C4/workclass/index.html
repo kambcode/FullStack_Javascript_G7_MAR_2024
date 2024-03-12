@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estilos</title>
+
+  <!-- Hoja de estilos externa -->
+  <link rel="stylesheet" href="./titulos.css">
+  <link rel="stylesheet" href="./parrafos.css">
+  <link rel="stylesheet" href="./listas.css">
+  <link rel="stylesheet" href="./formularios.css">
+  <link rel="stylesheet" href="./tablas.css">
+
+  <!-- Hoja de estilos interna -->
+  <style>
+    /* Selector universal */
+    * {
+      font-family: 'Courier New', Courier, monospace
+    }
+
+    /* Selector de etiqueta */
+    h1 {
+      font-size: 15px;
+    }
+
+    /* Selector de etiqueta */
+    h2 {
+      font-size: 10px;
+      color: blue;
+    }
+
+    /* Selector de etiqueta */
+    body {
+      background-color: yellow;
+    }
+  </style>
+
+</head>
+
+<body>
+  <!-- Estilos en linea -->
+  <h1 style="font-size: 70px;"> Estilos CSS (.css)</h1>
+  <h1>Otro estilo tipo 1</h1>
+  <h2>Titulo de orden 2</h2>
+  <h2>Titulo de orden 2</h2>
+  <h2>Titulo de orden 2</h2>
+  <!-- 2 parrafos con fuente 14px y color rojo -->
+  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis sed quidem perspiciatis laboriosam, quam
+    maiores sunt nulla adipisci eum, pariatur provident voluptatem cum odit quo praesentium, nihil quasi quia.
+    Reiciendis!</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis maxime doloremque dignissimos mollitia magni non
+    perferendis eveniet at illum atque velit, rerum, provident officia voluptate sint officiis voluptas voluptatum
+    pariatur?</p>
+  <!-- 2 listas con fuente 60px y color verde -->
+  <ol>
+    <li>Item1</li>
+    <li>Item2</li>
+    <li>Item3</li>
+  </ol>
+  <ul>
+    <li>Item1</li>
+    <li>Item2</li>
+    <li>Item3</li>
+  </ul>
+  <!-- Formulario -->
+  <form action="">
+    <fieldset>
+      <legend> captura de datos</legend>
+      <label for="nombre">Ingrese su nombre</label><br>
+      <input type="text" name="nombre_capturado" id="nombre">
+      <button>Enviar datos</button>
+    </fieldset>
+  </form>
+  <hr>
+  <!-- tablas con borde html -->
+  <h3>Tabla con borde html</h3>
+  <table border="1">
+    <tr>
+      <td> HOla mundo</td>
+    </tr>
+  </table>
+  <hr>
+  <!-- tablas sin borde -->
+  <h3>Tabla sin borde </h3>
+  <table>
+    <tr>
+      <td> HOla mundo</td>
+      <th> HOla mundo2</th>
+    </tr>
+  </table>
+  <!-- tablas con borde CSS -->
+  <h3>Tabla con borde css </h3>
+  <table>
+    <tr>
+      <td> HOla mundo</td>
+      <th> HOla mundo2</th>
+    </tr>
+  </table>
+</body>
+
+</html>
