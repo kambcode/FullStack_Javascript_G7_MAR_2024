@@ -30,3 +30,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 06/03/2024 Definicion HTML, Elementos básicos y su clasificación, Tablas https://youtu.be/12lwSFTXov8
 - 08/03/2024 Repaso tablas, elementos link y formularios https://youtu.be/1Y3DeRJowog
 - 11/03/2024 INtroducción CSS, estilos basicos, selectores basico https://youtu.be/T_tCBoIQkDk
+- 13/03/2024 Selectores avanzados, combinacion de selectores, modelo de caja https://youtu.be/0DEj20b-npU
