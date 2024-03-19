@@ -32,3 +32,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 11/03/2024 INtroducción CSS, estilos basicos, selectores basico https://youtu.be/T_tCBoIQkDk
 - 13/03/2024 Selectores avanzados, combinacion de selectores, modelo de caja https://youtu.be/0DEj20b-npU
 - 15/03/2024 Cierre box model, psicionamiento, background https://youtu.be/9XriJ9xfjhA
+- 18/03/2024 Repaso general de layout y posicionamiento, Flexbox https://youtu.be/3cqlnrg7FYY
