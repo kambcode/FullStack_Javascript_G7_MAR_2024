@@ -34,3 +34,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 15/03/2024 Cierre box model, psicionamiento, background https://youtu.be/9XriJ9xfjhA
 - 18/03/2024 Repaso general de layout y posicionamiento, Flexbox https://youtu.be/3cqlnrg7FYY
 - 20/03/2024 Repaso Flexbox parte 1 https://youtu.be/WGahQzReZFw
+- 22/03/2024 Cierre flexbox https://youtu.be/hef7ubn-tjY
