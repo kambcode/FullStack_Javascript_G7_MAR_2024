@@ -36,3 +36,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 20/03/2024 Repaso Flexbox parte 1 https://youtu.be/WGahQzReZFw
 - 22/03/2024 Cierre flexbox https://youtu.be/hef7ubn-tjY
 - 01/04/2024 Media querys https://youtu.be/uVhjLVN3o3U
+- 03/04/2024 Introducción GRID https://youtu.be/8N84SBigRGg
